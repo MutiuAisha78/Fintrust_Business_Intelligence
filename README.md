@@ -5,9 +5,11 @@ Part A — Business Understanding
 What business questions should FinTrust's management be able to answer?
 
 Who are our most profitable and high-value customer segments, and which acquisition channels yield the lowest churn rates?
+
 What are the peak transaction periods, and which payment channels are experiencing the fastest adoption or highest failure rates?
 
 What indicators or transaction patterns strongly correlate with high risk and potential fraud (Risk review flag), and how quickly can we spot them?
+
 What is the average transaction value per customer type, and what is the overall customer lifetime value trend?
 
 What decisions could data analysis support?
